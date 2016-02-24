@@ -1,0 +1,45 @@
+.welcome
+{
+	background-image:url(../img/GrandLake.jpg);
+	background-repeat:none;
+	height:100vh;
+	background-position:center center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	-o-background-size:cover;
+	color:#fff
+
+}
+
+.half-height
+{
+	height:50vh;
+}
+.quarter-height
+{
+	height:25vh;
+}
+.navbar
+{
+	opacity: 0.5;
+	filter: alpha(opacity=50);
+}
+.navbar-inverse
+{
+	background: transparent;
+}
+
+.center-text
+{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.welcome-text
+{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  line-height: 1.42857143;
+  color: #777;
+}
