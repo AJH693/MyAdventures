@@ -39,6 +39,27 @@
 {
 	height:25vh;
 }
+.opening-text-top
+{
+  	font-family:"Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+	padding-bottom:200px
+	font-style:italic;
+	font-size:22px;
+	line-height:22px;
+	margin-bottom:25px;
+  	text-align: center;
+}
+.opening-text-bottom
+{
+	font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-transform:uppercase;
+	font-weight:700;
+	font-size:50px;
+	line-height:50px;
+	margin-bottom:25px;
+	text-align: center;
+
+}
 .navbar
 {
 	opacity: 0.4;
